@@ -4,6 +4,8 @@
 
 A lightweight Python CLI tool to discover, inspect and control Meross smart plugs directly over your local network — without relying on the Meross Cloud.
 
+<img width="384" height="256" alt="Glossy MEROSS-TOOL Tech-Logo mit Smart-Plug" src="https://github.com/user-attachments/assets/a608cad5-cfd4-4d08-88ef-5bf97ddcb9a3" />
+
 ---
 
 ## Overview
